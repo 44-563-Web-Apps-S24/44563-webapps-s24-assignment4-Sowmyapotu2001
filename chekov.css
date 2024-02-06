@@ -1,0 +1,73 @@
+.speech {
+    font-family: sans-serif;
+    font-size: 16px;
+    color: black;
+  }
+  
+  .direction {
+    font-family: Arial; 
+    font-size: 18px; 
+    color: black;
+    background-color: lightyellow; 
+    transition: background-color 0.3s, color 0.3s; 
+  }
+  
+ 
+  .direction:hover {
+    background-color: lightblue; 
+    color: white; 
+  }
+  .EPIKHODOV {
+   
+    color: #3498db; 
+  }
+  
+  
+  
+  .DUNYASHA {
+   
+    color: #e74c3c; 
+  }
+  
+  .CHARLOTTA {
+    
+    color: #9b59b6; 
+  }
+  
+  .YASHA {
+    
+    color: #f39c12; 
+  }
+
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .table th, .table td {
+    border: 1px solid #ddd; 
+    padding: 10px; 
+    text-align: left;
+  }
+  
+  .table th {
+    background-color: #3498db; 
+    color: white; 
+  }
+  
+  .table tbody tr:nth-child(even) {
+    background-color: #f2f2f2; 
+  }
+  
+  .table tbody tr:hover {
+    background-color: #e0e0e0; 
+  }
+  
+  .table td {
+    padding: 12px; 
+  }
+  
+  .table th, .table td {
+    margin: 2px; 
+  }
