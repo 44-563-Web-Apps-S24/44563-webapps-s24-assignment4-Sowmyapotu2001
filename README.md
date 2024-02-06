@@ -2,4 +2,4 @@
 # WebApps-S24-Assignment-4
 A practice assignment for HTML with CSS
 ## Hosted at
-[link to theater.html](https://github.com/44-563-Web-Apps-S24/44563-webapps-s24-assignment4-Sowmyapotu2001/settings/pages)
+[link to theater.html](https://github.com/44-563-Web-Apps-S24/44563-webapps-s24-assignment4-Sowmyapotu2001/blob/main/theater.html)
